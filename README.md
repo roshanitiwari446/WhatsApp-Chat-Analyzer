@@ -5,7 +5,7 @@
 
 ![WhatsApp Chat Analyzer](./demo.png)
 
-This repository contains the **WhatsApp Chat Analyzer** project, a tool that allows you to analyze and extract insights from WhatsApp chat exports. The project is developed by [Karan Prasad Gupta](https://github.com/karanprasadgupta), [Narayan Jha](https://github.com/kyayaarnarayan), and is written in Python.
+This repository contains the **WhatsApp Chat Analyzer** project, a tool that allows you to analyze and extract insights from WhatsApp chat written in Python.
 
 ## Table of Contents
 
@@ -20,11 +20,7 @@ This repository contains the **WhatsApp Chat Analyzer** project, a tool that all
 
 The **WhatsApp Chat Analyzer** is designed to help you gain valuable insights from your WhatsApp chats. It provides various functionalities to analyze and visualize data extracted from the chat exports. This tool allows you to explore patterns, trends, and statistics related to your conversations, helping you understand your messaging behavior and communication patterns.
 
-The project utilizes various open-source libraries and tools. See the [`requirements.txt`](https://github.com/karanprasadgupta/WhatsAppChatAnalzyer/blob/main/requirements.txt) file for details.
-
-## Demo
-
-Check out the live demo of the WhatsAppChatAnalzyer App:  [https://karanprasadgupta-whatsappchatanalzyer-main-lrxq8x.streamlit.app/](https://karanprasadgupta-whatsappchatanalzyer-main-lrxq8x.streamlit.app/)
+The project utilizes various open-source libraries and tools. 
 
 > *If the website does not load properly, try opening it in incognito mode.*
 
@@ -44,7 +40,7 @@ To get a local copy of this project up and running, follow these steps:
 1. Clone this repository to your local machine using the following command:
 
    ```shell
-   git clone https://github.com/karanprasadgupta/WhatsAppChatAnalzyer.git
+   
    ```
 2. Navigate to the project directory:
    ``` shell
@@ -62,7 +58,7 @@ To get a local copy of this project up and running, follow these steps:
 
 ## Usage
 - Export your WhatsApp chat conversation as a text file. You can find instructions on how to export chat logs on the WhatsApp website.
-- Visit the  app [website](https://karanprasadgupta-whatsappchatanalzyer-main-lrxq8x.streamlit.app/) or run the app in local environment.
+  
 - Upload the chat text file on the server.
 - Follow the on-screen instructions to choose the desired analysis options.
 
